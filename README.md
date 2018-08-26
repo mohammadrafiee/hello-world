@@ -2,4 +2,4 @@
 
 Hello everyone!
 
-I like to share some code heare from time to time.
+I like to share some codes here from time to time.
