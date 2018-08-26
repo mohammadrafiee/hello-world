@@ -1,2 +1,5 @@
 # hello-world
-github guide code.
+
+Hello everyone!
+
+I like to share some code heare from time to time.
